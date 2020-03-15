@@ -1,0 +1,1 @@
+export const toRoleID = state => state.role_id;
